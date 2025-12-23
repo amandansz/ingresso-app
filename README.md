@@ -1,4 +1,4 @@
-# 🎫 e-Ticket – Sistema de Compra de Ingressos
+#  e-Ticket – Sistema de Compra de Ingressos
 
 Este é um projeto desenvolvido durante o curso de **Lógica de Programação com JavaScript** da [Alura](https://www.alura.com.br/), com foco no uso de estruturas condicionais, funções, manipulação de DOM e boas práticas em JS.
 
@@ -6,7 +6,7 @@ A interface simula um sistema de venda de ingressos com controle de quantidade e
 
 ---
 
-## 🧠 Conceitos Trabalhados
+##  Conceitos Trabalhados
 
 - Manipulação do DOM com JavaScript
 - Funções, condicionais e eventos
@@ -17,7 +17,7 @@ A interface simula um sistema de venda de ingressos com controle de quantidade e
 
 ---
 
-## 🔥 Funcionalidades
+##  Funcionalidades
 
 - Seleção do tipo de ingresso (pista, cadeira superior ou inferior)
 - Definição da quantidade de ingressos desejada
